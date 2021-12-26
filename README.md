@@ -1,2 +1,2 @@
 # speedtest
-An simple a functional speedtest (phyton)
+An simple a functional speedtest (python)
