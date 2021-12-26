@@ -1,2 +1,2 @@
 # speedtest
-An simple a functional speedtest
+An simple a functional speedtest (phyton)
