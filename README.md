@@ -1,2 +1,2 @@
 # speedtest
-An simple a functional speedtest (python)
+An simple and functional speedtest (python)
